@@ -1,0 +1,61 @@
+#grid-body{
+	-fx-background-color: linear-gradient(from 45% 25% to 100% 100%, #9fd3c7, #142d4c);
+	-fx-text-fill: white;
+	-fx-font-family: Verdana;
+}
+.title{
+	-fx-background-radius: 50px;
+	-fx-background-color: #385170;
+	-fx-padding: 10px;
+	-fx-min-width: 970px;
+	-fx-text-fill: white;
+	-fx-font-family: Verdana;
+	-fx-font-weight: Bold;
+}
+
+.coef{
+	-fx-background-radius: 10px;
+}
+
+.button-calculate{
+	-fx-background-radius: 50px;
+	-fx-background-color: #00204a;
+	-fx-padding: 10px;
+	-fx-min-width: 200px;
+	-fx-text-fill: white;
+	-fx-font-family: Verdana;
+	-fx-font-weight: Bold;
+}
+
+.button-calculate:hover{
+	-fx-background-color: #142d4c;
+}
+
+.values-parent{
+	-fx-padding: 15px;
+	-fx-background-color: #5c5470;
+	-fx-background-radius: 20px;
+	-fx-opacity: 0.75;
+}
+
+.value-name{
+	-fx-font-family: Verdana;
+	-fx-text-fill: white;
+	-fx-font-weight: Bold;
+}
+
+.result-value{
+	-fx-font-family: Verdana;
+	-fx-text-fill: white;
+	-fx-font-weight: Bold;
+}
+
+.values{
+	-fx-font-size: 20px;
+	-fx-padding: 10px;
+	-fx-min-width: 200px;
+	-fx-text-fill: white;
+	-fx-font-family: Verdana;
+	-fx-font-weight: Bold;
+	-fx-alignment:center;
+}
