@@ -15,3 +15,5 @@ A simple **JavaFX application** to visualize **quadratic equations**.
 1. Clone the repository:  
 ```bash
 git clone https://github.com/zbojo/quadratic-visualizer.git
+```
+2. Compile project & run
